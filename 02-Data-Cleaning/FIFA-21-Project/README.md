@@ -1,6 +1,7 @@
-# ⚽ FIFA 21 Data Cleaning Project (Power BI)
+# ⚽ FIFA 21 Data Cleaning Project (Power BI) 
 
 ## 📌 Overview
+[click here for guide](https://medium.com/@jerryade75/data-cleaning-in-microsoft-power-bi-fifa-21-dataset-a910eb510486)
 
 This project focuses on cleaning and transforming the FIFA 21 dataset using **Power BI (Power Query Editor)**.
 The raw dataset contained inconsistent formats, mixed units, and messy text fields, which were transformed into a structured, analysis-ready dataset.
