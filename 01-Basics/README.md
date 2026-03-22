@@ -31,7 +31,7 @@ Power BI is a data visualization and business intelligence tool used to create d
 ---
 
 ## 🎥 Recommended Video
-- (Paste your YouTube tutorial link here)
+- [click here](https://youtu.be/6cV3OwFrOkk?si=8ww_h0BvKDZ4qNi1)
 
 ---
 
