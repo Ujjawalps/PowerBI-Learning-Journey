@@ -39,3 +39,8 @@ Power BI is a data visualization and business intelligence tool used to create d
 - Power BI is mostly drag-and-drop  
 - UI may differ between versions  
 - Best way to learn is by building dashboards
+
+## ⚠️ Beginner Mistakes I Made
+- Followed tutorial blindly at first
+- Didn’t explore options myself
+- Ignored data cleaning initially
